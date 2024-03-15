@@ -1,4 +1,4 @@
-# muhammadhasan.github.io
+# Profile Summary
 
 Muhammad is a Postdoctoral research fellow at LEEP, working under the supervision of Professor Daniel Williamson, Professor Brett Day, Professor Alex Diaz (UCL), and Dr Amy Binner for the project ADD-TREES: AI-elevated Decision-support via Digital Twins for Restoring and Enhancing Ecosystem Services. He was awarded a PhD in Mathematical Sciences (Statistics Group) from Durham University under the supervision of Dr Jonathan Cumming, and Professor Ian Vernon with the prestigious Durham Doctoral Scholarship. 
 
